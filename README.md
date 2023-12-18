@@ -23,11 +23,11 @@ Visit the official ChatChain website: [Chatweb](https://chatwebblockchainuseless
 
 Include images or screenshots here to showcase the ChatChain application.
 
-![Screenshot 1](./images/image1.png)
+![Screenshot 1](./00.png)
 
-![Screenshot 2](./images/image2.png)
+![Screenshot 2](./01.png)
 
-![Screenshot 3](./images/image1.png)
+![Screenshot 3](./02.png)
 
 <!-- Add more screenshots if needed -->
 
